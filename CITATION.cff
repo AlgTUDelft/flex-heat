@@ -10,6 +10,10 @@ authors:
     given-names: "Ksenija"
     email: K.Stepanovic@tudelft.nl
     affiliation: Delft University of Technology
+  - family-names: "Wu"
+    given-names: "jichen"
+    email: jichen@flextechnologies.ai
+    affiliation: Flex-Technologies
 version: 0.1.0
 date-released: 2022-03-29
 url: "https://github.com/AlgTUDelft/flex_heat"

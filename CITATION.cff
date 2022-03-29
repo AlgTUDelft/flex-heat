@@ -3,10 +3,14 @@
 
 cff-version: 1.2.0
 title: flex_heat
-message: Results reproduction
+message: Implementation of algorithms for exploring pipeline energy storage flexibility
 type: software
 authors:
-  - name-particle: Ksenija
-    family-names: Stepanovic
+  - family-names: "Stepanovic"
+    given-names: "Ksenija"
     email: K.Stepanovic@tudelft.nl
     affiliation: Delft University of Technology
+version: 0.1.0
+date-released: 2022-03-29
+url: "https://github.com/AlgTUDelft/flex_heat"
+
